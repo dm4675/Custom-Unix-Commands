@@ -1,4 +1,4 @@
-# Custom-Unix-Commands
+# Custom-Unix-Command-Uniq
 XV6 Operating System compatible UNIX command 'uniq' implementation/extension.
 
 Part 1: Implementing the 'uniq' command.
